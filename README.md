@@ -6,7 +6,6 @@ In this project description, we will cover:
 
 * Project Overview
 * Deliverables
-* Getting Started
 
 ## Project Overview
 
@@ -134,9 +133,8 @@ Ideally, your README should include:
     * Links to the final notebook and presentation
     * Reproduction instructions (or a link to them)
 
-The best practice would be to include all of the items listed above in your README. Items 2 and 7 are particularly relevant for grading, as described below.
 
-## Getting Started
+### Getting Started
 
 Please start by reviewing the contents of this project description. If you have any questions, please ask your instructor ASAP.
 
